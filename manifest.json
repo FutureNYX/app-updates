@@ -1,0 +1,27 @@
+{
+    "files":  {
+                  "darwin-arm64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.4-darwin-arm64",
+                                       "sha256":  "7b7ca5431aec0a9606af8cd1fd109c95af143ad66d4f32932a0f81ec1b5d0ef5",
+                                       "name":  "AREPO-1.2.4-darwin-arm64",
+                                       "size":  27608866
+                                   },
+                  "darwin-amd64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.4-darwin-amd64",
+                                       "sha256":  "75a9e3d242955b4153ed977e3623f5ea4e15c271f8a1cbdbc70afe6c965af34a",
+                                       "name":  "AREPO-1.2.4-darwin-amd64",
+                                       "size":  29115504
+                                   },
+                  "windows-amd64":  {
+                                        "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.4-windows-amd64.exe",
+                                        "sha256":  "2ff1ba78fabb61ee6753092bb92306776ad0a11028670793ea60790242b43196",
+                                        "name":  "AREPO-1.2.4-windows-amd64.exe",
+                                        "size":  29606400
+                                    }
+              },
+    "version":  "1.2.4",
+    "notes":  {
+                  "en":  "A brighter, easier-to-read look. Updates now arrive by a route that works in Russia, and only install at startup or overnight.",
+                  "ru":  "Более светлый и читаемый вид. Обновления теперь приходят по маршруту, который работает в России, и ставятся только при запуске или ночью."
+              }
+}
