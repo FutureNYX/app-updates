@@ -1,0 +1,44 @@
+{
+    "version":  "1.2.14",
+    "notes":  {
+                  "en":  "The program file is now named AREPO.exe everywhere and carries its icon.",
+                  "ru":  "Файл программы теперь везде называется AREPO.exe и показывает свой значок."
+              },
+    "files":  {
+                  "darwin-arm64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.14-darwin-arm64",
+                                       "sha256":  "220b6b5b978f793f109b018f02bfe8bdf8f1c7fb6ef8f3be49a284785744d86f",
+                                       "name":  "AREPO-1.2.14-darwin-arm64",
+                                       "size":  35551826
+                                   },
+                  "darwin-amd64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.14-darwin-amd64",
+                                       "sha256":  "96051c00e8c72a637bb5c7137ef4dd04427195552fb39869860b3f2051a1bf9d",
+                                       "name":  "AREPO-1.2.14-darwin-amd64",
+                                       "size":  36984608
+                                   },
+                  "windows-amd64":  {
+                                        "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.14-windows-amd64.exe",
+                                        "sha256":  "7e271ddb9075a891a0e342db7536879d2682654ec79c07b56798b803a6548cc6",
+                                        "name":  "AREPO-1.2.14-windows-amd64.exe",
+                                        "size":  37714432
+                                    }
+              },
+    "urgent":  false,
+    "ui":  {
+               "rev":  21,
+               "minApp":  "1.2.10",
+               "html":  {
+                            "name":  "ui-21.html",
+                            "sha256":  "b8cffbef91f7a4e110da8a248f17318222baa2dced7685f733dcd16c7b70f7d8",
+                            "size":  417566,
+                            "url":  "https://futurenyx.github.io/app-updates/ui/ui-21.html"
+                        },
+               "icon":  {
+                            "name":  "arepo-21.ico",
+                            "sha256":  "c85265925acab2416a7d67e20434dd0ed045f8cb321b79fd1d90052fe39dbffc",
+                            "size":  122287,
+                            "url":  "https://futurenyx.github.io/app-updates/ui/arepo-21.ico"
+                        }
+           }
+}
