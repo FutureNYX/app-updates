@@ -1,0 +1,73 @@
+{
+    "version":  "1.2.21",
+    "notes":  {
+                  "en":  "AREPO now shows where you are connected. On a Mac it covers the whole computer once your Mac password is entered.",
+                  "ru":  "AREPO теперь показывает, к какому серверу вы подключены. На Mac он работает на всем компьютере после ввода пароля от Mac."
+              },
+    "files":  {
+                  "darwin-arm64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.21-darwin-arm64",
+                                       "sha256":  "a56f998ca551835b456b4f3cd5690659da89a26a2093255f26c05c72cd25ed04",
+                                       "name":  "AREPO-1.2.21-darwin-arm64",
+                                       "size":  37600050
+                                   },
+                  "darwin-amd64":  {
+                                       "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.21-darwin-amd64",
+                                       "sha256":  "47f1bcde188f58edabc0f54ef38a11e5412a1b2cfd614b8b11efef196656139e",
+                                       "name":  "AREPO-1.2.21-darwin-amd64",
+                                       "size":  39012864
+                                   },
+                  "windows-amd64":  {
+                                        "url":  "https://futurenyx.github.io/app-updates/AREPO-1.2.21-windows-amd64.exe",
+                                        "sha256":  "6a5521a3ec25766ede341c72244d05f4ff9625595149effcc2604fae470152c5",
+                                        "name":  "AREPO-1.2.21-windows-amd64.exe",
+                                        "size":  39428096
+                                    }
+              },
+    "urgent":  false,
+    "core":  "xray-26.3.27",
+    "ui":  {
+               "rev":  24,
+               "minApp":  "1.2.10",
+               "html":  {
+                            "name":  "ui-24.html",
+                            "sha256":  "5c7bc28e9207794dc31e454cb7a0e1823ee80c1a47854df27c694c0470b8227c",
+                            "size":  418092,
+                            "url":  "https://futurenyx.github.io/app-updates/ui/ui-24.html"
+                        },
+               "icon":  {
+                            "name":  "arepo-24.ico",
+                            "sha256":  "c85265925acab2416a7d67e20434dd0ed045f8cb321b79fd1d90052fe39dbffc",
+                            "size":  122287,
+                            "url":  "https://futurenyx.github.io/app-updates/ui/arepo-24.ico"
+                        }
+           },
+    "allapps":  {
+                    "files":  {
+                                  "helper-darwin-arm64":  {
+                                                              "name":  "helper-darwin-arm64-60332b3309",
+                                                              "sha256":  "60332b3309ea14c255056bbcbac0ec8811be680d15546a5f81a2187015e8bdc5",
+                                                              "size":  6829714,
+                                                              "url":  "https://futurenyx.github.io/app-updates/allapps/helper-darwin-arm64-60332b3309"
+                                                          },
+                                  "xray-darwin-arm64":  {
+                                                            "name":  "xray-darwin-arm64-118d6c6c8c",
+                                                            "sha256":  "118d6c6c8c2fb913c4b2aeb056a58936016b36813c38d9b75653311787c0f93c",
+                                                            "size":  35230770,
+                                                            "url":  "https://futurenyx.github.io/app-updates/allapps/xray-darwin-arm64-118d6c6c8c"
+                                                        },
+                                  "helper-darwin-amd64":  {
+                                                              "name":  "helper-darwin-amd64-929f5d09f4",
+                                                              "sha256":  "929f5d09f478f150473df9e41ff43dda9f65adb24063e3aea76aad5058b94528",
+                                                              "size":  7387424,
+                                                              "url":  "https://futurenyx.github.io/app-updates/allapps/helper-darwin-amd64-929f5d09f4"
+                                                          },
+                                  "xray-darwin-amd64":  {
+                                                            "name":  "xray-darwin-amd64-b8eeb3d83a",
+                                                            "sha256":  "b8eeb3d83afd3accb85f197edfd8b31aa77eceb489635f3af854b194dd9b14b8",
+                                                            "size":  37443616,
+                                                            "url":  "https://futurenyx.github.io/app-updates/allapps/xray-darwin-amd64-b8eeb3d83a"
+                                                        }
+                              }
+                }
+}
